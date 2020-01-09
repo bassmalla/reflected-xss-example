@@ -29,3 +29,4 @@ const NoVulnerability2 = (req, res) => {
     }
 }
 
+let PASSWORD = '12345'
