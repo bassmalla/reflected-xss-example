@@ -29,4 +29,4 @@ const Vulnerability2 = (req, res) => {
     `
     res.send(respond);
 }
-
+let PASSWORD = '12345'
